@@ -1,7 +1,7 @@
 
 # Hotel Booking QA Testing
 
-End-to-end Software Quality Assurance portfolio project.
+End-to-end Software Quality Assurance project.
 
 ## Project Overview
 
